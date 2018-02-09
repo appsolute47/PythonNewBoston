@@ -13,4 +13,19 @@ Visit http://www.python.org/download/mac/tcltk/ for current information.
 'h'
 >>> user[-3]
 'i'
+>>> user[2:7]
+'na Mc'
+>>> user[:7]
+'Tuna Mc'
+>>> user[2:]
+'na McFish'
+>>> user[:]
+'Tuna McFish'
+>>> print('yes')
+yes
+>>> len('ufhufhguhfu')
+11
+>>> #len prints how many characters in a string
+>>> len(user)
+11
 >>> 
